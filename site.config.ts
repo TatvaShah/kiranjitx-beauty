@@ -15,7 +15,7 @@ export const site: SiteConfig = {
     colors: { accent: "#1f1f1f" },
   },
   logo: "/images/logo.png",
-  showNameWithLogo: false,
+  showNameWithLogo: true,
 
   hero: {
     variant: "split",
